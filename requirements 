@@ -1,5 +1,2 @@
-python-dotenv
 requests
-pytelegrambotapi
-ccxt
-pandas
+python-dotenv
